@@ -1,0 +1,11 @@
+images:
+  - image: /assets/images/roadreader/problem.jpg
+  - image: /assets/images/roadreader/solution.jpg
+  - image: /assets/images/roadreader/dataflow.jpg
+  - image: /assets/images/roadreader/datagrid.jpg
+  - image: /assets/images/roadreader/datatrip.jpg
+  - image: /assets/images/roadreader/detection.jpg
+  - image: /assets/images/roadreader/pothole.jpg
+  - image: /assets/images/roadreader/saasmodel.jpg
+  - image: /assets/images/roadreader/dassmodel.jpg
+  - image: /assets/images/roadreader/milestones.jpg

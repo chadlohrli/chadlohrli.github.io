@@ -1,0 +1,11 @@
+items:
+
+- title: Home
+  url: home.html
+
+- title: Projects
+  url: projects.html
+
+- title: Thoughts
+  url: thoughts.html
+
